@@ -2,14 +2,14 @@
 
 <img src="https://user-images.githubusercontent.com/102771408/171034419-2bb83d93-19c4-4e21-994c-b1c49a5add75.png" width="350px" align="right" alt="Computador">
 
-<pre width="300px">
+<pre>
 function dev(name, age, work) {
         this.name = name;
         this.age = age;
         this.work = work;
-      }
-      let brunoSilva = new dev('Bruno Silva', 21, 'Front-End Developer');
-      console.log(brunoSilva);
+}
+let brunoSilva = dev('Bruno Silva', 21, 'Front-End Developer');
+console.log(brunoSilva);
 </pre>
 
 ## Skills
