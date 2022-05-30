@@ -1,6 +1,6 @@
 # Hi, I'm Bruno Silva 👋😃
 
-<img src="https://user-images.githubusercontent.com/102771408/171034419-2bb83d93-19c4-4e21-994c-b1c49a5add75.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
+<img src="https://user-images.githubusercontent.com/102771408/171034419-2bb83d93-19c4-4e21-994c-b1c49a5add75.png" width="350px" align="right" alt="Computador">
 
 <pre min-width="400px" max-width="400px" width="400px">
 function dev(name, age, work) {
