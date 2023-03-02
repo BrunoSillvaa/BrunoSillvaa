@@ -1,4 +1,4 @@
-# Hi, I'm Bruno Silva 👋😃
+<h1 align="center">Hi, I'm Bruno Silva 👋😃<h1/>
 
 <img src="https://user-images.githubusercontent.com/102771408/171034419-2bb83d93-19c4-4e21-994c-b1c49a5add75.png" width="380px" align="right" alt="Computador">
 
@@ -12,7 +12,7 @@ let brunoSilva = dev('Bruno Silva', 21, 'Front-End Developer');
 console.log(brunoSilva);
 </pre>
 
-## Skills
+<h2 align="center">Skills<h2/>
 <div align="center">
         <div>
                 <img height="30" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
