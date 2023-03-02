@@ -12,7 +12,7 @@ let brunoSilva = dev('Bruno Silva', 21, 'Front-End Developer');
 console.log(brunoSilva);
 </pre>
 
-<h2 align="center">Skills<h2/>
+<p style="font-size: 20px" align="center">Skills<p/>
 <div align="center">
         <div>
                 <img height="30" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
